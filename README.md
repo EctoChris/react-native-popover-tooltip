@@ -9,13 +9,13 @@ Forked from: wookoinc/react-native-popover-tooltip
 # How to install
 
 ```bash
-npm install react-native-popover-tooltip --save
+npm install react-native-tooltip-modified2 --save
 ```
 
 To use the component, import the component as shown below
 
 ```js
-import PopoverTooltip from 'react-native-popover-tooltip';
+import PopoverTooltip from 'react-native-tooltip-modified2'
 ```
 
 # Example
