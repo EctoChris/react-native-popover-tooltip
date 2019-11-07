@@ -7,7 +7,7 @@ Forked from: wookoinc/react-native-popover-tooltip
 
 # IMPORTANT
 
-This was made for a very specific use case and will not be beneficial to many people. 
+I modified 'wookoinc/react-native-popover-tooltip' for a very specific use case and will not be beneficial to others.
 
 # How to install
 
