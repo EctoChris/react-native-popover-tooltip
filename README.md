@@ -5,6 +5,9 @@ Currently works only with `iOS` and `Android`.
 This component is modified from another project [react-native-tooltip-menu](https://github.com/alimek/react-native-tooltip-menu)
 Forked from: wookoinc/react-native-popover-tooltip
 
+# IMPORTANT
+
+This was made for a very specific use case and will not be beneficial to many people. 
 
 # How to install
 
